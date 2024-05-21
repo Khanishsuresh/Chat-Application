@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # MERN Stack Project: Real Time Chat Application | JWT, Socket.io
+=======
+# MERN Stack Project:Real Time Chat Application | JWT, Socket.io
+>>>>>>> 7ec5de53b1bf0eb7aff0f38d4f2ccd17cc0fd22d
 
 Some Features:
 
