@@ -12,7 +12,6 @@ Some Features:
 ### Setup .env file
 
 ```js
-PORT=...
 MONGO_DB_URI=...
 JWT_SECRET=...
 ```
@@ -23,8 +22,14 @@ JWT_SECRET=...
 npm run build
 ```
 
-### Start the app
+### Start the frontend
 
 ```shell
-npm start
+npm run dev
+```
+
+### Start the backend
+
+```shell
+npm run server
 ```
